@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">InClass05</string>
+    <string name="get_news">Get News</string>
+    <string name="finish_val">Finish</string>
+    <string name="loadingText">Loading</string>
+</resources>
